@@ -204,6 +204,9 @@ header {
     color: #FFFFFF;
     background-color: var(--accent-color);
 }
+.portfolio.link{
+    background-color: #EEEEEE;
+}
 .title-portfolio{
     font-weight: 700;
     font-size: 18px;
