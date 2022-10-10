@@ -64,6 +64,9 @@ header {
     letter-spacing: 0.02em;
     color: var(--primary-text-color);
 }
+.nav-address .link{
+    color: var(--primary-text-color);
+}
 .nav-address .link:focus,
 .nav-address .link:hover{
     color: var(--accent-color);
