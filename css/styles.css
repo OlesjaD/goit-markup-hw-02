@@ -12,6 +12,7 @@
 body{
     background-color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
+    font-weight: 400
     font-size: 14px;
     letter-spacing: 0.03em;
 }
@@ -91,6 +92,7 @@ header {
     cursor: pointer;
 }
 .button__label {
+    font-family: 'Roboto';
     font-weight: 700;
     font-size: 16px;
     line-height: 1.88;
@@ -116,8 +118,7 @@ header {
     clip: rect(0 0 0 0);
     overflow: hidden;
 }
-.benefits .deteils {
-    font-weight: 700;
+.benefits .details {
     line-height: 1.14;
     text-transform: uppercase;
     color: var(--title-text-color);
@@ -127,7 +128,6 @@ header {
     color: var(--primary-text-color);
 }
 .title-work{
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.17;
     text-align: center;
@@ -170,17 +170,13 @@ header {
     line-height: 1.19;
 }
 .footer .address{
-    font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
     line-height: 1.71;
     color: #FFFFFF;
 }
 .footer .mail,
 .footer .tel{
-    font-family: 'Roboto';
     font-style: normal;
-    font-weight: 400;
     line-height: 1.71;
     color: rgba(255, 255, 255, 0.6);
 }
@@ -191,6 +187,7 @@ header {
 }
          /*Портфоліо*/
 .filters .btn{
+    font-family: 'Roboto';
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
