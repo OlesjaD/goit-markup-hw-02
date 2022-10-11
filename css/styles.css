@@ -12,7 +12,7 @@
 body{
     background-color: #FFFFFF;
     font-family: 'Roboto', sans-serif;
-    font-weight: 400
+    font-weight: 400;
     font-size: 14px;
     letter-spacing: 0.03em;
 }
@@ -41,6 +41,7 @@ header {
 }
 .site-nav {
     font-weight: 500;
+    font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: var(--title-text-color);
@@ -120,6 +121,7 @@ header {
 }
 .benefits .details {
     line-height: 1.14;
+    font-size: 14px;
     text-transform: uppercase;
     color: var(--title-text-color);
 }
